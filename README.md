@@ -1,4 +1,4 @@
-# Supply-Chain-Analytics-in-Tableau
+# Supply-Chain-Analytics
 
 
 ## Customer Analysis:
